@@ -1,0 +1,42 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp/cache",
+		".vagrant"
+	],
+
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+
+	"font_size": 11.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"PHP",
+		"Vintage"
+	],
+	"rulers":
+	[
+		90
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

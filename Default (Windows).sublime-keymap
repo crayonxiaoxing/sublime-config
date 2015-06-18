@@ -1,0 +1,7 @@
+[
+  // http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/commands.html
+  { "keys": ["ctrl+shift+o"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+  { "keys": ["ctrl+alt+shift+p"], "command": "find_in_folder", "args": {"dirs": []} },
+  { "keys": ["alt+space"], "command": "auto_complete" }
+]
+
