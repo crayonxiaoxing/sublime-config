@@ -8,4 +8,5 @@
 </p>
 
 </br>
-便携款制作： 在安装目录下新建文件夹/Data，把 %appdata% 目录下的Sublime Text 3文件夹复制到该目录即可。
+便携款制作： 
+在安装目录下新建文件夹/Data，把 %appdata% 目录下的Sublime Text 3文件夹复制到该目录即可。
