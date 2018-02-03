@@ -12,9 +12,13 @@
 在安装目录下新建文件夹/Data，把 %appdata% 目录下的Sublime Text 3文件夹复制到该目录即可。
 </br>
 
+</br>
 git安装：
-console
+
+```console
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 git clone git@github.com:crayonxiaoxing/sublime-config.git
 mv sublime-config/* .
 rm -rf sublime-config
+```
+</br>
