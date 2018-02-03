@@ -13,7 +13,7 @@
 </br>
 
 </br>
-git安装：
+Git安装：
 
 ```console
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
