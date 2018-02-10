@@ -1,6 +1,5 @@
 {
-	"auto_complete_commit_on_tab": true,
-
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -10,13 +9,16 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"AutoFileName",
+		"Clipboard Manager",
 		"ConvertToUTF8",
 		"Emmet",
 		"Git",
 		"Glue",
 		"Open URL",
 		"Package Control",
+		"SideBarEnhancements",
 		"SyncedSideBar",
+		"Theme - Soda",
 		"Theme - SoDaReloaded",
 		"Theme - Spacegray"
 	]
