@@ -23,7 +23,6 @@ rm -rf sublime-config
 ```
 </br>
 
-</br>
 常用快捷键：
 
 ```
