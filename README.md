@@ -23,10 +23,8 @@ rm -rf sublime-config
 ```
 </br>
 
-
 </br>
 常用快捷键：
-
 ```
 Ctrl+L 选择整行（按住-继续选择下行）
 Ctrl+KK 从光标处删除至行尾
